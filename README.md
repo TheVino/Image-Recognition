@@ -1,6 +1,6 @@
 # Image Recognition 🏞️
 
-Hi! This program can identify all sorts os objects, images, actions, texts within given images. Also can correlate, compare, describe the situation, and other stuff. 
+Hi! This program can identify all sorts os objects, images, actions, texts within given picture. Also can correlate, compare, describe the situation, and other stuff. 
  
  If you have CUDA installed, this will mainly work on your GPU when you proper install tha Ollama resources.
  If needed please check their documentation: https://llava-vl.github.io/
@@ -11,7 +11,7 @@ Hi! This program can identify all sorts os objects, images, actions, texts withi
 
 ## Before you start coding
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv_QSMmUfokI2IrDInISWyDxmlLJC1njGsj_KVCcm1p_zi5y_j)
-##### Please, read Ollama documentation to select and dowaloand the right dataset for you. I tested all of their 3 datasets for LLava and the [13B](https://ollama.com/library/llava:13b) was the best size and run time for me.
+##### Please, read Ollama documentation to select and download the right dataset for you. I tested all of their 3 datasets for LLava and the [13B](https://ollama.com/library/llava:13b) was the best size and run time for me.
 
 
 ## Main code has 1 simple function
