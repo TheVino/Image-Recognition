@@ -2,7 +2,7 @@
 
 Hi! This program can identify all sorts of objects, images, actions, texts within given a picture. Also can correlate, compare, describe the situation, and other stuff. 
  
- If you have CUDA installed, this will mainly work on your GPU when you proper install tha Ollama resources.
+ If you have CUDA installed, this will mainly work on your GPU when you proper install the Ollama resources.
  If needed please check their documentation: https://llava-vl.github.io/
 
 # What libs do I need? 
